@@ -7,9 +7,6 @@ import android.graphics.Bitmap;
 import android.graphics.Color;
 import android.os.Build;
 
-import com.nidhikamath.notificationdemo.services.DownloadImageTask;
-import com.nidhikamath.notificationdemo.services.FetchImageCallback;
-
 import androidx.core.app.NotificationCompat;
 
 public class Notification {
