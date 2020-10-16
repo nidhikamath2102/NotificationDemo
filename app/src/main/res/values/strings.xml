@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotificationDemo</string>
+    <string name="sendnotification">Send Notification</string>
+    <string name="cancelnotification">Cancel Notification</string>
+    <string name="entertitle">Enter Title</string>
+    <string name="enterdescription">Enter Description</string>
+    <string name="imagenotification">Image Notification</string>
+</resources>
